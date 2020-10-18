@@ -1,4 +1,4 @@
-netRewireSpecFlexRob: A rewiring model based on heat diffusion that shows specificity, flexibility or robustness for different values of a parameter (tau)  
+netRewireSpecFlexRob: A rewiring model based on heat diffusion that shows specificity, flexibility and robustness  
 =================================
 
 
